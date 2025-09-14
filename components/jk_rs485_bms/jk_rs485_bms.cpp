@@ -378,9 +378,9 @@ static const char *const OPERATION_MODES[OPERATION_MODES_SIZE] = {
 
 static const uint8_t BATTERY_TYPES_SIZE = 3;
 static const char *const BATTERY_TYPES[BATTERY_TYPES_SIZE] = {
-    "Lithium Iron Phosphate",  // 0x00
-    "Ternary Lithium",         // 0x01
-    "Lithium Titanate",        // 0x02
+    "LIFEPO4",  // 0x00
+    "LI-ION",         // 0x01
+    "LTO",        // 0x02
 };
 
 
